@@ -35,7 +35,7 @@
 
 **Networking & Cloud:** GNS3 VM | Ubuntu VM | Wireshark | Docker | StrongSwan | Hybrid Cloud | Cisco (Familiar)
 
-**Programming Languages:** C++ | C# | SQL (T-SQL) | JavaScript | Python (FastAPI)
+**Programming Languages:** C++ | C# | SQL (T-SQL) | C | Python (FastAPI)
 
 **Robotics & Hardware:** Arduino | Robotics
 
@@ -58,7 +58,7 @@
 | [OOP E-Commerce System](https://github.com/anastahir00/OOP-Ecommerce-System) | C++, OOP, File I/O | Complete shopping system with Admin/Customer panels, inheritance, polymorphism |
 | [DSA E-Commerce System](https://github.com/anastahir00/Ecommerce-DSA) | C++, Hash Table, LL, Stack, Queue, BST | 5 data structures implemented in single app |
 | [E-Commerce Database](https://github.com/anastahir00/Ecommerce-Database) | SQL Server, T-SQL, 3NF | 9 tables, 3 triggers, 10 analytical queries |
-| Hybrid Cloud VPN Lab | GNS3, Ubuntu, StrongSwan | Site-to-site VPN configuration |
+| Hybrid Cloud  | (https://github.com/anastahir00/CCP-HybridCloud) | GNS3, Ubuntu, StrongSwan, Docker, Wireshark |
 
 ## 🔗 Connect With Me
 
